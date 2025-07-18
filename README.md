@@ -16,12 +16,8 @@ Students will be doing in-class research on a chosen topic.  They create a writt
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
-
 I plan to use a rubric that checks for accuracy of information, clear articulation on the impact on society, and participation in group discussion and collaboration.
 
 ### Outcomes
-
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
 
 Through this activity, students will discover many significant innovations in computing, as well as the people developing the progress.  Developing an understanding of how computer science fits within society will allow students to more closely relate to the field. As an introductory course, students from a wide range of subpopulations that have been traditionally marginalized in computer science will have an opportunity in it. Since this assignment would happen early in the semester, the class can use it as a frame of reference in analyzing advancements in computer science discovered through out the course.
