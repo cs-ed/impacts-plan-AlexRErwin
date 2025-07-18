@@ -1,14 +1,14 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
-
 The course I teach is called STEM, and I introduce middle schoolers to engineering and computer science through robotics. This document will demonstrate how I plan to incorporate societal impacts of computer science.
 
 ## Plan
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+Students will research and describe a development of computer science through time. Students will evaluate the impacts the development left on society or the influence society had over the development. 
+
+Students will respond to the research other students have done, and organize the impacts collaboratively by comparing and relating the ideas shared in small groups.  
 
 ### Learning Activities
 
