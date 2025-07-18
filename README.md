@@ -12,7 +12,7 @@ Students will respond to the research other students have done, and organize the
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+Students will be doing in-class research on a chosen topic.  They create a written report of their findings, noting the significant event in computer science, as well as the impact it had on society or vice versa. Students will read their report to a small group of peers, taking turns to share thouhgts on each event. The sutdents will then combine their events into a shared written report, organized chronologically and noting each event's significant impact on society.
 
 ### Assessment
 
