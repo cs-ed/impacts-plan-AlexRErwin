@@ -2,6 +2,8 @@
 
 Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
+The course I teach is called STEM, and I introduce middle schoolers to engineering and computer science through robotics. This document will demonstrate how I plan to incorporate societal impacts of computer science.
+
 ## Plan
 
 ### Learning Objectives
